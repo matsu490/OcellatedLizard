@@ -20,9 +20,10 @@ OcellatedLizard
 または任意のディレクトリに ZIP ファイルをダウンロードして解凍してください。
 
 # References
-1. [【WebGL】模様の生成](https://www.youtube.com/watch?v=f3pmg5v0E7w "【WebGL】模様の生成")
-2. [シマウマの縞の謎を解く](http://www.fbs.osaka-u.ac.jp/labs/skondo/saibokogaku/enigma%20of%20zebra.html "シマウマの縞の謎を解く")
-3. [チューリングモデルによる模様生成](http://www.usamimi.info/~ide/programe/turingmodel/#index-CA-simulation "チューリングモデルによる模様生成")
+1. [【生物物理学】トカゲの皮膚の模様が形成される過程](http://www.natureasia.com/ja-jp/nature/pr-highlights/11814?utm_source=Twitter&utm_medium=Social&utm_campaign=NatureJapan "【生物物理学】トカゲの皮膚の模様が形成される過程")
+2. [【WebGL】模様の生成](https://www.youtube.com/watch?v=f3pmg5v0E7w "【WebGL】模様の生成")
+3. [シマウマの縞の謎を解く](http://www.fbs.osaka-u.ac.jp/labs/skondo/saibokogaku/enigma%20of%20zebra.html "シマウマの縞の謎を解く")
+4. [チューリングモデルによる模様生成](http://www.usamimi.info/~ide/programe/turingmodel/#index-CA-simulation "チューリングモデルによる模様生成")
 
 # Licence
 Copyright (c) 2017 matsu490  
